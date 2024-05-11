@@ -1,0 +1,24 @@
+{
+  "sortedMiddleware": [],
+  "middleware": {},
+  "functions": {
+    "/api/translate": {
+      "env": [],
+      "files": [
+        "server/edge-runtime-webpack.js",
+        "server/pages/api/translate.js"
+      ],
+      "name": "pages/api/translate",
+      "page": "/api/translate",
+      "matchers": [
+        {
+          "regexp": "^/api/translate$",
+          "originalSource": "/api/translate"
+        }
+      ],
+      "wasm": [],
+      "assets": []
+    }
+  },
+  "version": 2
+}
