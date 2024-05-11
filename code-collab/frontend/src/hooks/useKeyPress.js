@@ -11,7 +11,7 @@ const useKeyPress = function (targetKey) {
 
     const upHandler = ({ key }) => {
         if (key === targetKey) {
-            setKeyPressed(false);
+            setKeyPressed(false)
         }
     };
 
