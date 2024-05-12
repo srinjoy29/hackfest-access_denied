@@ -19,16 +19,17 @@ We propose "Code Fusion," a unified code hub designed to address these challenge
 ## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React.js, Typescript, Tailwind CSS, Next js
 - **Backend:** Node.js, Express.js
+- **DataBase:** Mongo Db
 - **Real-time Communication:** Socket.IO
 - **AI Integration:** OpenAI (GPT-3.5)
 - **PDF Handling:** PDF.js
 - **Code Execution:** Language-specific interpreters/compilers, MONACO code editor, code mirror,judge0CE API
-- **Authentication:** Firebase
+- **Authentication:** oAuth 2.0
 - **Deployment:** Render, Vercel, Netlify
 
 ## Usage
 - Visit the website and sign up for an account.
-- Explore the various features such as real-time collaboration, AI-powered assistance, PDF reading, code execution, and resume building.
+- Explore the various features such as real-time collaboration, AI-powered assistance, PDF reading, code execution, and Code Score and performance analyzer.
 - Enjoy a seamless coding experience with Code Fusion!
 
 ## Contributors
