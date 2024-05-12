@@ -5,7 +5,7 @@ import { Banner } from "./components/Banner";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"; // Update import
 import { Contact } from "./components/Contact";
 import { Footer } from "./components/Footer";
-import { Projects1 } from './components/Projects1';
+import { Projects } from './components/Projects';
 import Codewithai from './components/Codewithai';
 import CodeEditor from './components/CodeEditor';
 import Collab from './components/Collab';
@@ -17,7 +17,7 @@ function Home() {
     <div className="App">
       <NavBar />
       <Banner />
-      <Projects1/>
+      <Projects/>
       <Collab/>
       <Codewithai/>
       <CodeEditor/>
