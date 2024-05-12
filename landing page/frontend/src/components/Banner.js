@@ -58,7 +58,7 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to Code Fusion</span>
                 <h1>{`Hi! It's  Code - Fusion`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h1>
-                  <p>Code Fusion seamlessly integrates code collaboration, AI-powered code analysis and translation, an intuitive IDE, and a resume builder. Effortlessly collaborate, analyze, translate code, and create professional resumes all in one powerful platform.</p>
+                  <p>Code Fusion seamlessly integrates code collaboration, AI-powered code analysis and translation, an intuitive IDE, and code review system with ai. Effortlessly collaborate, analyze, translate code, and get code score analysed by ai all in one powerful platform.</p>
                   
               </div>}
             </TrackVisibility>
