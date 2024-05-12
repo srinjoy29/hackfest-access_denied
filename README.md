@@ -13,7 +13,7 @@ We propose "Code Fusion," a unified code hub designed to address these challenge
 2. **AI Chat Integration:** Code Fusion integrates with OpenAI for AI-powered code translation, optimization, and analysis. Users can interact with the AI to receive suggestions, optimize code, and analyze code performance.
 3. **PDF Reading:** Users can upload and view PDF documents within the platform. This feature enhances productivity by allowing developers to reference documents without leaving the coding environment.
 4. **Code Execution:** Code Fusion provides an integrated IDE for efficient code execution. Users can run code with minimal latency, receive real-time input/output feedback, and leverage code completion features.
-5. **Resume Builder:** The platform offers a resume builder tool that simplifies the resume creation process. Users can fill out a form, and Code Fusion will generate a professional resume in seconds.
+5. **Code Review Assistants:** The platform offers a code review tool that analyse the resume based on time complexity , space used and optimization level of the code. Users can input the code in the input section and it can give the result and ultimate score of the code.
 6. **Code converter:** users can write code in a language and convert it into other language using AI. it can also write codes based on questions written in simple english language.
 
 ## Tech Stack
