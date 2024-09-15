@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Code Fusion
 
 Code Fusion is a comprehensive code hub designed to streamline collaboration, enhance productivity, and empower developers with AI-driven assistance. This platform offers a multitude of features, including real-time collaboration, AI-powered code optimization, code execution, PDF reading capabilities, and a resume builder.
@@ -41,3 +42,6 @@ We propose "Code Fusion," a unified code hub designed to address these challenge
 
 ## Deployed link 
 https://cod##.netlify.app/
+=======
+
+>>>>>>> 615e335d4fc9cbdb569a39a21e4b67596231c9a2
