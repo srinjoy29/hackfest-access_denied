@@ -22,7 +22,7 @@ function Home() {
       <Codewithai/>
       <CodeEditor/>
       <CodeReview/>
-      <Contact/>
+     
       <Footer />
     </div>
   );
