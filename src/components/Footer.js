@@ -9,7 +9,7 @@ export const Footer = () => {
   return (
     <footer className="footer">
       <Container>
-        <Row className="align-items-center">
+        <Row className="align-items-center p-4">
           <MailchimpForm />
           <Col size={12} sm={6}>
           <h1 className="text-white">Code-Fusion</h1>
