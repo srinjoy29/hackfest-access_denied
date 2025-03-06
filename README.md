@@ -1,4 +1,4 @@
 ###Hackathon project
 
-tEAM MEMBERS - https://github.com/Sayanijana23
-https://github.com/srinjoywork
+TEAM MEMBER 1- https://github.com/Sayanijana23
+TEAM MEMBER 2 : https://github.com/srinjoywork
